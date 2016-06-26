@@ -1,2 +1,3 @@
 # Android-Diagonal-Cut-View
-Create diagonal cut view in android.
+
+Full source code for this tutorial : https://medium.com/@adinugroho/create-diagonal-cut-view-in-android-5a376eca6a1c#.5t3nn0szn
